@@ -35,7 +35,7 @@ Este projeto é um robô autônomo capaz de detectar a direção do fogo, mover-
 - 1 bomba d’água + relé  
 - 1 servo motor  
 - 4 motores DC + driver L298N (Ponte dupla) 
-- Bateria 9V/12V (dependendo da bomba e motores)
+- Baterias 9V/12V (dependendo da bomba e motores)
 
 ---
 
