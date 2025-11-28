@@ -69,7 +69,6 @@ Este projeto é um robô autônomo capaz de detectar a direção do fogo, mover-
 │ │-- 📄 ESP32.ino # Main file for the mechanical part of the robot.
 │
 │-- 📂 Schemas/ # Help files
-│ │-- 📄 
 │
 │-- 📄 README.md # Main documentation for the project
 
